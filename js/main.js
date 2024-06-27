@@ -21,7 +21,7 @@ function renderCountries(arr, list) {
     let elMoreImg = document.createElement("img");
 
     elItem.className =
-      "w-[350px] hover:scale-105 cursor-pointer duration-300 p-2 bg-white rounded-[10px]";
+      "w-[350px] hover:scale-105 cursor-pointer duration-300 p-2 bg-slate-400 rounded-[10px]";
     elLikeBtn.className = "p-2 rounded-[50%] block";
     elIconsWrapper.className = "flex items-center pr-3 gap-7";
 
