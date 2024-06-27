@@ -1,0 +1,21 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background-color: white;
+}
+
+header i {
+  padding-left: 2px;
+}
+
+main {
+  background-color: aqua;
+  height: 900px;
+}
+
+select {
+  border: none;
+}
